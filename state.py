@@ -14,6 +14,7 @@ class State(object):
         return list(self.board.legal_moves)
 
     def value(self):
+        # TOTO : add neural net here
         return 1 # communists will be happy. all board positions are equal
 
 if __name__ == "__main__":
