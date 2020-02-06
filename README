@@ -40,4 +40,4 @@ Extra state:
 * Castle available x2
 * En passant (target square - 64 bits) 
 
-8x8x4 + 4 = 260 bits (vector of 0 or 1)
+8x8x5 = 260 bits (vector of 0 or 1)
